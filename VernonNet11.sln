@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VernonNet12", "VernonNet12.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VernonNet13", "VernonNet13\VernonNet13.vcxproj", "{E50F0500-E273-4954-BC19-4C2F12B30145}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{0E17FDF0-301E-4EF6-B64C-02AA0EE79679}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,9 +16,15 @@ Global
 		{09F49292-E0A2-4EE1-8C7B-E29318146C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09F49292-E0A2-4EE1-8C7B-E29318146C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09F49292-E0A2-4EE1-8C7B-E29318146C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F49292-E0A2-4EE1-8C7B-E29318146C3A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{E50F0500-E273-4954-BC19-4C2F12B30145}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{E50F0500-E273-4954-BC19-4C2F12B30145}.Debug|Any CPU.Build.0 = Debug|Win32
 		{E50F0500-E273-4954-BC19-4C2F12B30145}.Release|Any CPU.ActiveCfg = Release|Win32
 		{E50F0500-E273-4954-BC19-4C2F12B30145}.Release|Any CPU.Build.0 = Release|Win32
+		{E50F0500-E273-4954-BC19-4C2F12B30145}.Debug|Any CPU.Deploy.0 = Debug|Win32
+		{0E17FDF0-301E-4EF6-B64C-02AA0EE79679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E17FDF0-301E-4EF6-B64C-02AA0EE79679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E17FDF0-301E-4EF6-B64C-02AA0EE79679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E17FDF0-301E-4EF6-B64C-02AA0EE79679}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
